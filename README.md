@@ -48,7 +48,7 @@
 <a href="https://www.linkedin.com/in/cami-la/">
  <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/79499426?v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Otoniel Júnior</b></sub></a> <a href="https://www.instagram.com/camimi_la/" title="Instagram"></a>
+ <sub><b>Otoniel Júnior</b></sub></a> <a href="https://www.linkedin.com/in/otonielnn/" title="Instagram"></a>
 
 Feito com ❤️ por otonielnn Durante o Bootcamp de Desenvolvimento Backend com Kotlin na [DIO](http://web.dio.me)  👋🏽 Entre em contato!
 
